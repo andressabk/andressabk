@@ -2,7 +2,7 @@
 - Eu sei um pouco sobre javascript
 - 
 - Olá,eu sou @andressabk
-- eu pretendo aprender futuramente como criar uma página na internwe
+- eu pretendo aprender futuramente como criar uma página na internete
 - eu estou aprendendo javascript
 
 <!---
