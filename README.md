@@ -2,7 +2,7 @@
 - Eu sei um pouco sobre javascript
 - 
 - Olá,eu sou @andressabk
-- eu pretendo aprender futurameNTE HTML
+- eu pretendo aprender futuramente HTML
 - eu estou aprendendo javascript
 
 <!---
