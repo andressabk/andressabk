@@ -1,11 +1,9 @@
 - Sobre mim
 - Eu sei um pouco sobre javascript
 - 
-- Hi, I’m @andressabk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Olá,eu sou @andressabk
+- eu pretendo aprender futuramente como criar uma página na internwe
+- eu estou aprendendo javascript
 
 <!---
 andressabk/andressabk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
